@@ -1,0 +1,8 @@
+FROM node:14-alpine
+WORKDIR /getcodedone
+RUN apk add --no-cache python3 py3-pip make g++
+COPY package.json ./
+COPY package-lock.json ./
+RUN npm install
+COPY . ./
+CMD ["npm", "run", "start"]
