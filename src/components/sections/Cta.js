@@ -68,7 +68,7 @@ const Cta = ({
             <div>
               <h4 style={divStyles} className="m-0">
                 sathwikgaddam@gmail.com
-                <a style={aStyles} title="Google, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg">
+                <a style={aStyles} target='_blank' rel="noopener noreferrer" title="Gmail icon" href="https://mail.google.com/mail/?view=cm&fs=1&to=sathwikgaddam@gmail.com">
                   <img width="40" alt="Gmail icon (2020)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />
                 </a>
               </h4>
