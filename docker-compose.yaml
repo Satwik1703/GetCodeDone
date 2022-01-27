@@ -1,0 +1,12 @@
+version: '3'
+services: 
+    getcodedone:
+        stdin_open: true
+        tty: true 
+        build: .
+        container_name: getcodedone
+        ports:
+            - "80:80"        
+        volumes: 
+            - ./:/getcodedone
+            - /getcodedone/node_modules
