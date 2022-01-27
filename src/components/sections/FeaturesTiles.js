@@ -138,10 +138,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Portfolio/Personal Website
+                    College Projects
                     </h4>
                   <p className="m-0 text-sm">
-                    You will get a fast, responsive, mobile friendly webiste.
+                    Send me your college project and relax. It'll be done on time.
                     </p>
                 </div>
               </div>
@@ -160,10 +160,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Portfolio/Personal App
+                    Portfolio/Personal Website or App
                     </h4>
                   <p className="m-0 text-sm">
-                    You will get an app for both Android, IOS.
+                    You will get a fast, responsive, mobile friendly webiste or an app for both Android, IOS.
                     </p>
                 </div>
               </div>
