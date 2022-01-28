@@ -9,7 +9,7 @@ services:
         command: npm run start
         container_name: getcodedone
         ports:
-            - "4001:3000"        
+            - "3000:3000"        
         volumes: 
             - ./:/getcodedone
             - /getcodedone/node_modules
