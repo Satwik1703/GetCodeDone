@@ -1,6 +1,9 @@
 {
   "name": "get-code-done",
   "version": "1.0.2",
+  "engines": {
+    "node": "14.x"
+  },
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
