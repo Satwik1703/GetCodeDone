@@ -4,7 +4,7 @@
 
 [GetCodeDone](https://getcodedone.herokuapp.com/)
 
-### Contact Us
+## Contact Us
 
 #### Mail Us at [getcodedone@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=getcodedone@gmail.com)
 
